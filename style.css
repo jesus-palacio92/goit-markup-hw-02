@@ -25,6 +25,10 @@ body {
 
 }
 
+    .button-index:hover {
+        color: #2196f3;
+        cursor: pointer;
+}
 
 .active-link {
         color: #212121;
@@ -43,10 +47,10 @@ body {
         margin-right: auto;
 }
    
-    .button-index:hover {
-        color: #2196f3;
-        cursor: pointer;
-}
+a:active {
+    color #2196f3; 
+ }
+    /*enlace activo*/
  
 
     

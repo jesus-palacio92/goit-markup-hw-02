@@ -1,0 +1,64 @@
+body {
+    font-family: 'roboto', sans-serif;
+    font-family: 'raleway', sans-serif;
+    color: #212121;
+    font-weight: 400;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1200px;
+}
+
+.logo1 {
+    color: #2196f3;
+    font-family: raleway !important;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.2;
+    text-decoration: none;
+    margin-right: 90px;
+    margin-left: 0;    
+}
+
+
+.active-link {
+        color: #212121;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 1.2;
+        text-decoration: none;
+        margin-right: 50px;        
+}
+
+.contact-link {
+    color: #212121;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.2;
+    text-decoration: none;
+}
+
+.footer-contact-link {
+    color: #212121;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.2;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2196f3;
+}
+
+
+.button-index:hover {
+    color: #2196f3;
+    cursor: pointer;
+}
+

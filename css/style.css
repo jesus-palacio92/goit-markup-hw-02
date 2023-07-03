@@ -1,18 +1,6 @@
-:root {
-    --main-title-color: #ffffff;
-    --second-title-color: #212121;
-    --third-title-color: #757575;
-    --fourth-title-color: #f5f4fa;
-    --fifth-title-color: #eeeeee;
-    --sixth-title-color: #2f303a;
-    --accent-title-color: #2196f3;
-}
-
 body {
-    font-family: 'roboto', sans-serif;
-    font-family: 'raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #212121;
-    font-weight: 400;
 }
 
 ul {
@@ -27,7 +15,7 @@ ul {
 
 .logo1 {
     color: #2196f3;
-    font-family: raleway !important;
+    font-family: 'Raleway', sans-serif;
     font-size: 26px;
     font-weight: 700;
     line-height: 1.2;
@@ -66,9 +54,9 @@ a:hover {
     color: #2196f3;
 }
 
-
 .button-index:hover {
-    color: #2196f3;
+    background-color: #2196f3;
+    color: #ffffff;
     cursor: pointer;
 }
 
